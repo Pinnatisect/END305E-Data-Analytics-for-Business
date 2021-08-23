@@ -5,3 +5,4 @@ Please download the necessary CSV files in the repository and copy the code snip
 Special thanks to Prof. Dr. Nizamettin Bayyurt for providing codes. \
 2020 - 2021 Summer Term \
 @Istanbul Technical University
+Access the [Notebook](https://raw.githack.com/Pinnatisect/END305E-Data-Analytics-for-Business/main/project.html)
